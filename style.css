@@ -1,6 +1,8 @@
 body{
-    background-color: blue;
+    background-color: rgb(96, 161, 180);
 }
+
+img{width: 100%;}
 
 h1{
     text-align: center;
